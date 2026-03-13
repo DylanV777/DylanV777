@@ -1,4 +1,4 @@
-What's up! I'm a Riwi coder just starting my journey in software development. Excited to learn, experiment, and build small projects as I grow my skills.
+What's up! 🏁 I'm a Riwi coder just starting my journey in software development. Excited to learn, experiment, and build small projects as I grow my skills.
 
 💻 Curious about technology and programming, learning step by step
 
