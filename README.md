@@ -1,16 +1,25 @@
-## Hi there 👋
+I'm a Riwi coder just starting my journey in software development. Excited to learn, experiment, and build small projects as I grow my skills.
 
-<!--
-**DylanV777/DylanV777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Curious about technology and programming, learning step by step
 
-Here are some ideas to get you started:
+🎮 Videogames lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Always learning new things and improving little by little
+
+📺 Series fan
+
+🚀 Motivated to keep practicing and growing as a developer
+
+
+                                                  
+                                                  $$\    $$\ $$$$$$$$\ $$$$$$$$\        $$$$$$\  $$$$$$$\ $$$$$$$$\ 
+                                                  $$ |   $$ |\____$$  |\____$$  |      $$  __$$\ $$  __$$\\__$$  __|
+                                                  $$ |   $$ |    $$  /     $$  /       $$ /  \__|$$ |  $$ |  $$ |   
+                                                  \$$\  $$  |   $$  /     $$  /        \$$$$$$\  $$$$$$$  |  $$ |   
+                                                   \$$\$$  /   $$  /     $$  /          \____$$\ $$  __$$<   $$ |   
+                                                    \$$$  /   $$  /     $$  /          $$\   $$ |$$ |  $$ |  $$ |   
+                                                     \$  /   $$  /     $$  /           \$$$$$$  |$$ |  $$ |  $$ |   
+                                                      \_/    \__/      \__/             \______/ \__|  \__|  \__|   
+                                                                                                                    
+                                                                                                                    
+                                                                  
